@@ -1,0 +1,114 @@
+⸻
+
+Privacy Policy for DSAIS
+
+Effective Date: June 01, 2025
+Last Updated: December 31, 2030
+
+{Your Company Name} (“we,” “us,” or “our”) provides the custom GPT experience {Your GPT Name} (the “Service”) on the OpenAI ChatGPT platform.  This Privacy Policy explains what data we collect, how we use it, how long we keep it, and the choices you have.
+
+⸻
+
+1.  Scope
+
+This Policy applies only to data processed by {Your GPT Name} inside ChatGPT, including any optional Actions that call external APIs we operate.  It does not cover:
+	•	Data practices of OpenAI LLC (see OpenAI’s own privacy policy).
+	•	Websites, apps, or APIs owned by others that you may interact with.
+
+⸻
+
+2.  What We Collect
+
+Category	Examples	Source
+User Inputs	Prompts, uploaded files, follow-up messages	You
+GPT Outputs	Responses generated for you	OpenAI’s models
+OAuth Profile Data (if you connect an external account)	User ID, name, email address, access and refresh tokens, file metadata	Your OAuth provider
+Usage Logs	Timestamps, error traces, limited analytics events (no content)	Automatically
+
+We do not intentionally collect sensitive personal information (e.g., health data, biometric IDs).  Please avoid sending it.
+
+⸻
+
+3.  How We Use the Data
+
+Purpose	Legal Basis*
+Deliver and personalize GPT responses	Contract (Terms of Use)
+Perform the requested action on an external service (e.g., search Google Drive)	Contract
+Debug, monitor, and improve reliability	Legitimate interest
+Comply with legal obligations or defend legal claims	Legal obligation / Legitimate interest
+
+* If you’re in a GDPR jurisdiction.
+
+⸻
+
+4.  Sharing & Disclosure
+
+We share data only when necessary:
+	1.	OpenAI – Processes your prompts and our instructions to generate responses.
+	2.	Connected Service APIs – When you explicitly invoke an Action (e.g., Google Drive), we pass the minimum data needed (file IDs, query strings, etc.).
+	3.	Service Providers – Cloud hosting and monitoring vendors under confidentiality agreements.
+	4.	Legal, Security, or Business Transfers – If required by law, to protect rights, or during a merger/acquisition.
+
+We never sell your data or use it for advertising.
+
+⸻
+
+5.  Data Retention
+
+Data	Retention Period
+User Inputs & GPT Outputs (content)	Deleted within {X hours/days} after session ends.
+OAuth Tokens & Metadata	Stored until you revoke access or {Y days} after last use.
+Operational Logs (non-content)	Kept for {Z months} for security and audit.
+
+
+⸻
+
+6.  Security
+	•	Encryption in transit (TLS) and at rest.
+	•	Least-privilege access controls.
+	•	Automated monitoring and alerting.
+	•	Annual penetration tests and vendor risk reviews.
+
+No system is 100 % bulletproof, but we take industry-standard precautions.
+
+⸻
+
+7.  International Transfers
+
+We host our servers in {Region}.  If you are outside that region, your data will be transferred and processed there under applicable data-transfer mechanisms (e.g., SCCs).
+
+⸻
+
+8.  Your Rights
+
+Depending on where you live, you may have rights to:
+	•	Access or export copies of your data
+	•	Correct or delete data we hold
+	•	Object to or restrict processing
+	•	Withdraw consent at any time
+
+Contact us (see §10) to exercise these rights.  We’ll respond within 30 days.
+
+⸻
+
+9.  Children
+
+The Service is not directed at children under 13 (or the age defined by local law).  We do not knowingly collect data from children.  If you believe a child has provided us data, contact us for deletion.
+
+⸻
+
+10.  Contact Us
+
+{Privacy or Data Protection Officer}
+Email: privacy@{yourdomain}.com
+Address: {Company Address}
+
+⸻
+
+11.  Changes to This Policy
+
+We’ll post any changes here and update the “Last Updated” date.  If the changes are material, we’ll provide notice in ChatGPT or via email before they take effect.
+
+⸻
+
+Print this, tweak the placeholders, hand it to legal, and stick the final HTTPS link into the “Privacy Policy URL” field.  Congratulations—your GPT is now one step closer to store-ready.
